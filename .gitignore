@@ -1,0 +1,33 @@
+# -------------------------
+# System junk
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Python cache
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Arduino build outputs
+# -------------------------
+*.bin
+*.elf
+*.hex
+*.cpp.o
+*.ino.*.bin
+*.ino.*.elf
+
+# -------------------------
+# Secrets
+# -------------------------
+arduino/wifi_ssid_pass/
+arduino/wifi_ssid_pass/*
+
+# Secrets
+arduino/sensitive_info/not_public
+
