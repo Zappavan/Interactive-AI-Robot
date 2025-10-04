@@ -11,4 +11,4 @@ This project includes:
 ---- to be completed -----
 
 ## Image of (very) rough prototype mkII
-![Prototype.jpeg didn't load](docs/Prototype.jpeg)
+![Prototype MKII](docs/Prototype.jpeg)
