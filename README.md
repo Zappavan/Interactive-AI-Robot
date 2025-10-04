@@ -9,3 +9,6 @@ This project includes:
 ## Instructions
 
 ---- to be completed -----
+
+## Image of (very) rough prototype mkII
+![Prototype.jpeg didn't load](docs/Prototype.jpeg)
