@@ -12,3 +12,4 @@ This project includes:
 
 ## Image of (very) rough prototype mkII
 ![Prototype MKII](docs/Prototype.jpeg)
+![test](IMG_5250.jpeg)
