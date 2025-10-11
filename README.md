@@ -10,6 +10,13 @@ This project includes:
 
 ---- to be completed -----
 
+Parts list: 
+
+
+Download Ollama: https://ollama.com/
+Download Local LLM model: gemma3 (or other depending on specs)
+
+
 ## Image of (very) rough prototype mkII
 ![Prototype MKII](docs/Prototype.jpeg)
 
